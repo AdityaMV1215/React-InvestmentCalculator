@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+.result {
+  max-width: 50rem;
+  margin: 2rem auto;
+  padding: 1rem;
+  table-layout: fixed;
+  border-spacing: 1rem;
+  text-align: right;
+}
+
+.fall-back-text {
+  font-size: 1.5rem;
+  text-align: center;
+  margin: 3rem auto;
+}
